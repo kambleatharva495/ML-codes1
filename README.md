@@ -1,2 +1,2 @@
-# ML-codes1
+# MLcode
 ML practical codes
